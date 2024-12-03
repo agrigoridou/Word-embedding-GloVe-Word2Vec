@@ -1,1 +1,1 @@
-# Word-embeddings-and-Recurrent-Neural-Networks-
+# Word-embedding-GloVe-Word2Vec
